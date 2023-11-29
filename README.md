@@ -1,4 +1,4 @@
-# CalculatorApp
+# Calculator GUI App
 
 ## Description
   * Hey!,This project name is CalculatorApp and this is a simple java Project based on java Swing and GUI. It can performs arithmetic operations on numbers like:
